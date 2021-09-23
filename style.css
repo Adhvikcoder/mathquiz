@@ -1,0 +1,26 @@
+.login_div{
+    background-color:blanchedalmond ;
+
+	padding: 10px;
+		float: none;
+		border-radius: 15px;
+height: 110px;
+}
+
+.backgorund{
+  background-color: brown;
+}
+
+#button_login{
+    width: 400px;
+}
+
+#output{
+  background-color: blanchedalmond;
+  border-radius: 15px;
+  border-top:slateblue;
+  padding: 10px;
+  float: none;
+  text-align: left;
+  width: 400px;
+}
